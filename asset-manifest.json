@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/online-shop/static/css/main.0b102647.chunk.css",
+    "main.js": "/online-shop/static/js/main.d2cccff0.chunk.js",
+    "main.js.map": "/online-shop/static/js/main.d2cccff0.chunk.js.map",
+    "runtime-main.js": "/online-shop/static/js/runtime-main.dcc08fc3.js",
+    "runtime-main.js.map": "/online-shop/static/js/runtime-main.dcc08fc3.js.map",
+    "static/js/2.fd619a93.chunk.js": "/online-shop/static/js/2.fd619a93.chunk.js",
+    "static/js/2.fd619a93.chunk.js.map": "/online-shop/static/js/2.fd619a93.chunk.js.map",
+    "index.html": "/online-shop/index.html",
+    "static/css/main.0b102647.chunk.css.map": "/online-shop/static/css/main.0b102647.chunk.css.map",
+    "static/js/2.fd619a93.chunk.js.LICENSE.txt": "/online-shop/static/js/2.fd619a93.chunk.js.LICENSE.txt",
+    "static/media/crown.3a4e2b15.svg": "/online-shop/static/media/crown.3a4e2b15.svg",
+    "static/media/shopping-bag.a688874f.svg": "/online-shop/static/media/shopping-bag.a688874f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcc08fc3.js",
+    "static/js/2.fd619a93.chunk.js",
+    "static/css/main.0b102647.chunk.css",
+    "static/js/main.d2cccff0.chunk.js"
+  ]
+}
